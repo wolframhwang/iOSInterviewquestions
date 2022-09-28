@@ -42,7 +42,7 @@ iOS개발자들에게 필요한 자료들을 정리하고 있는 중입니다.
 ###
 - iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?
 - Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.
-- Delegate란 무언인가 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.
+- Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.
 - NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.
 - UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?
 - App Bundle의 구조와 역할에 대해 설명하시오.
@@ -55,6 +55,7 @@ iOS개발자들에게 필요한 자료들을 정리하고 있는 중입니다.
 - TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.
 - 하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.
 - setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오.
+- stackView의 장점과 단점에 대해서 설명하시오.
 ###
 - NSCache와 딕셔너리로 캐시를 구성했을때의 차이를 설명하시오.
 - URLSession에 대해서 설명하시오.
@@ -133,6 +134,7 @@ iOS개발자들에게 필요한 자료들을 정리하고 있는 중입니다.
 - AnyCancellable에 대해서 설명하시오
 - sink에 대해서 설명하시오
 - throttle과 debounce의 차이점을 설명하시오.
+- Data를 Binding 하는 방법에 대해서 설명하시오.
 
 # Optional
 아래부터는 추가로 공부를 하면 좋을 내용들입니다.
